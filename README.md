@@ -19,7 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=excal-rs&" alt="excal-rs" /></p>
 <br />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=excal-rs" alt="excal-rs" /></a> </p>
+<p align="left" style="display: block;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=excal-rs" alt="excal-rs" /></a> </p>
 <br />
 
 <h3 align="center">Connect with me:</h3>
