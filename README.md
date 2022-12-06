@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Excal</h1>
 <h3 align="center">A passionate computer science student from England</h3>
 <p align="center">
+  <strong> I AM STICKING TO LEARNING PYTHON FOR NOW </strong>
   🌱 I’m currently learning <strong>Ethical Hacking, Python, C, HTML and CSS</strong> <br />
  💬 Ask me about <strong>Cybersecurity, Python, Front-end or C </strong>
 </p>
